@@ -14,13 +14,6 @@ I'm a passionate Front-End Developer with a knack for creating beautiful and use
 - **Design Tools**: Figma
 - **Version Control**: Git, GitHub
 
-## 🔗 My Projects
-Here are some of the projects I've worked on:
-
-- [Project Name 1](link-to-project) - Brief description of what the project is about and the technologies used.
-- [Project Name 2](link-to-project) - Brief description of what the project is about and the technologies used.
-- [Project Name 3](link-to-project) - Brief description of what the project is about and the technologies used.
-
 ## 📫 Get in Touch
 Feel free to reach out if you'd like to connect, collaborate, or chat about web development!
 
