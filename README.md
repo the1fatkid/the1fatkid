@@ -10,7 +10,7 @@ I'm a passionate Front-End Developer with a knack for creating beautiful and use
 
 ## 🚀 Technologies & Tools
 - **Languages**: HTML, CSS, SASS, JavaScript
-- **Frameworks**: React, Bootstrap, Tailwind CSS
+- **Libraries & Frameworks**: React, Bootstrap, Tailwind CSS
 - **Design Tools**: Figma
 - **Version Control**: Git, GitHub
 
