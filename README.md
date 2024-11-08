@@ -1,6 +1,6 @@
 # Hi there, I'm Shivika! 👋
 
-I'm a passionate Front-End Developer with a knack for creating beautiful and user-friendly web applications. I love turning ideas into reality through code, and I'm always eager to learn and explore new technologies.
+I'm a passionate Front-End Developer with a knack for creating beautiful and user-friendly web applications. I am an organization freak and a bit of a perfectionist, and I'm always eager to learn and explore new technologies.
 
 ## 🌱 About Me
 - 🎓 B.Tech graduate (2022) with a focus on web development.
@@ -8,7 +8,7 @@ I'm a passionate Front-End Developer with a knack for creating beautiful and use
 - 🎨 Skilled in designing visually appealing websites with a keen eye for UI/UX.
 - 📈 Dedicated to building responsive, accessible, and performant web applications.
 
-## 🚀 Technologies & Tools
+## 🚀 Current Tech Stack
 - **Languages**: HTML, CSS, SASS, JavaScript
 - **Libraries & Frameworks**: React, Bootstrap, Tailwind CSS
 - **Design Tools**: Figma
